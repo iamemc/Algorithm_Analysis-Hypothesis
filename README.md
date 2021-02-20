@@ -1,4 +1,4 @@
-# Algorithm_Analysis-Hypothesis
+# Algorithm Analysis Hypothesis
 
 STRUCTURE
 ---------------
